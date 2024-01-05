@@ -1,0 +1,14 @@
+/Users/marcinczubala/RiderProjects/GeoLocalApi/GeoLocal.DataAccessLayer/bin/Debug/net7.0/GeoLocal.DataAccessLayer.deps.json
+/Users/marcinczubala/RiderProjects/GeoLocalApi/GeoLocal.DataAccessLayer/bin/Debug/net7.0/GeoLocal.DataAccessLayer.runtimeconfig.json
+/Users/marcinczubala/RiderProjects/GeoLocalApi/GeoLocal.DataAccessLayer/bin/Debug/net7.0/GeoLocal.DataAccessLayer.dll
+/Users/marcinczubala/RiderProjects/GeoLocalApi/GeoLocal.DataAccessLayer/bin/Debug/net7.0/GeoLocal.DataAccessLayer.pdb
+/Users/marcinczubala/RiderProjects/GeoLocalApi/GeoLocal.DataAccessLayer/obj/Debug/net7.0/GeoLocal.DataAccessLayer.csproj.AssemblyReference.cache
+/Users/marcinczubala/RiderProjects/GeoLocalApi/GeoLocal.DataAccessLayer/obj/Debug/net7.0/GeoLocal.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcinczubala/RiderProjects/GeoLocalApi/GeoLocal.DataAccessLayer/obj/Debug/net7.0/GeoLocal.DataAccessLayer.AssemblyInfoInputs.cache
+/Users/marcinczubala/RiderProjects/GeoLocalApi/GeoLocal.DataAccessLayer/obj/Debug/net7.0/GeoLocal.DataAccessLayer.AssemblyInfo.cs
+/Users/marcinczubala/RiderProjects/GeoLocalApi/GeoLocal.DataAccessLayer/obj/Debug/net7.0/GeoLocal.DataAccessLayer.csproj.CoreCompileInputs.cache
+/Users/marcinczubala/RiderProjects/GeoLocalApi/GeoLocal.DataAccessLayer/obj/Debug/net7.0/GeoLocal.DataAccessLayer.dll
+/Users/marcinczubala/RiderProjects/GeoLocalApi/GeoLocal.DataAccessLayer/obj/Debug/net7.0/refint/GeoLocal.DataAccessLayer.dll
+/Users/marcinczubala/RiderProjects/GeoLocalApi/GeoLocal.DataAccessLayer/obj/Debug/net7.0/GeoLocal.DataAccessLayer.pdb
+/Users/marcinczubala/RiderProjects/GeoLocalApi/GeoLocal.DataAccessLayer/obj/Debug/net7.0/GeoLocal.DataAccessLayer.genruntimeconfig.cache
+/Users/marcinczubala/RiderProjects/GeoLocalApi/GeoLocal.DataAccessLayer/obj/Debug/net7.0/ref/GeoLocal.DataAccessLayer.dll

@@ -1,0 +1,14 @@
+/Users/marcinczubala/RiderProjects/AllegroFee/MFC.DataAccessLayer/bin/Debug/net7.0/MFC.DataAccessLayer.deps.json
+/Users/marcinczubala/RiderProjects/AllegroFee/MFC.DataAccessLayer/bin/Debug/net7.0/MFC.DataAccessLayer.runtimeconfig.json
+/Users/marcinczubala/RiderProjects/AllegroFee/MFC.DataAccessLayer/bin/Debug/net7.0/MFC.DataAccessLayer.dll
+/Users/marcinczubala/RiderProjects/AllegroFee/MFC.DataAccessLayer/bin/Debug/net7.0/MFC.DataAccessLayer.pdb
+/Users/marcinczubala/RiderProjects/AllegroFee/MFC.DataAccessLayer/obj/Debug/net7.0/MFC.DataAccessLayer.csproj.AssemblyReference.cache
+/Users/marcinczubala/RiderProjects/AllegroFee/MFC.DataAccessLayer/obj/Debug/net7.0/MFC.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcinczubala/RiderProjects/AllegroFee/MFC.DataAccessLayer/obj/Debug/net7.0/MFC.DataAccessLayer.AssemblyInfoInputs.cache
+/Users/marcinczubala/RiderProjects/AllegroFee/MFC.DataAccessLayer/obj/Debug/net7.0/MFC.DataAccessLayer.AssemblyInfo.cs
+/Users/marcinczubala/RiderProjects/AllegroFee/MFC.DataAccessLayer/obj/Debug/net7.0/MFC.DataAccessLayer.csproj.CoreCompileInputs.cache
+/Users/marcinczubala/RiderProjects/AllegroFee/MFC.DataAccessLayer/obj/Debug/net7.0/MFC.DataAccessLayer.dll
+/Users/marcinczubala/RiderProjects/AllegroFee/MFC.DataAccessLayer/obj/Debug/net7.0/refint/MFC.DataAccessLayer.dll
+/Users/marcinczubala/RiderProjects/AllegroFee/MFC.DataAccessLayer/obj/Debug/net7.0/MFC.DataAccessLayer.pdb
+/Users/marcinczubala/RiderProjects/AllegroFee/MFC.DataAccessLayer/obj/Debug/net7.0/MFC.DataAccessLayer.genruntimeconfig.cache
+/Users/marcinczubala/RiderProjects/AllegroFee/MFC.DataAccessLayer/obj/Debug/net7.0/ref/MFC.DataAccessLayer.dll
